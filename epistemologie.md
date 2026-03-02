@@ -2,7 +2,7 @@
 
 ---
 
-Les constats empiriques convergent vers une question qui ne peut être traitée avec les seuls outils de la sociologie ou de la psychologie de l'éducation. Comprendre pourquoi une catégorie oriente systématiquement le regard vers le manque, pourquoi sa polysémie résiste à la clarification, et pourquoi ses présupposés normatifs échappent à la conscience des acteurs qui l'utilisent — cela requiert un cadre épistémologique.
+Les constats empiriques convergent vers une question qui ne peut être traitée avec les seuls outils de la sociologie ou de la psychologie de l'éducation. Comprendre pourquoi une catégorie oriente systématiquement le regard vers le manque, pourquoi sa polysémie résiste à la clarification, et pourquoi ses présupposés normatifs échappent à la conscience des acteurs qui l'utilisent. Cela requiert un cadre épistémologique.
 
 Quatre auteurs sont mobilisés à deux niveaux d'analyse, articulés par un concept pivot qui en offre une lecture empirique.
 
