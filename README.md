@@ -9,10 +9,6 @@ Ce décalage a orienté une recherche vers un objet inhabituel, non pas du *déc
 
 ---
 
-### Ce que ce dépôt contient
-
-Le site public de l'atelier : **[ferdinandlamolet.github.io](https://ferdinandlamolet.github.io)**
-
 Les fichiers sources des pages, organisées dans l'ordre de la recherche :
 
 | Fichier | Contenu |
