@@ -1,5 +1,4 @@
-# Penser le décrochage scolaire
-## Atelier public de recherche
+## Penser le décrochage scolaire
 
 ---
 
