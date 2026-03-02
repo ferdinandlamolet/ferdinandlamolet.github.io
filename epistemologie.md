@@ -54,7 +54,7 @@ Une **notion** manque de clarification par manque de rigueur, mais ce n'est pas 
 
 ---
 
-→ [Dispositif de recherche](dispositif.md) — comment enquêter empiriquement sur cette représentation
+→ [Dispositif de recherche](dispositif.md) - comment enquêter empiriquement sur cette représentation
 
 ---
 *Ferdinand Lamolet (2026)*
