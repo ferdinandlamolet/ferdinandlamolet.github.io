@@ -38,11 +38,11 @@ Le TAV est la méthode canonique d'identification du noyau central d'une représ
 
 Cinq inducteurs seront utilisés :
 
-1. *décrochage scolaire*
-2. *élève de lycée professionnel*
-3. *raccrochage scolaire*
-4. *apprentissages hors école*
-5. *parcours scolaire réussi*
+1. **décrochage scolaire**
+2. **élève de lycée professionnel**
+3. **raccrochage scolaire**
+4. **apprentissages hors école**
+5. **parcours scolaire réussi**
 
 Ces inducteurs couvrent cinq dimensions théoriques : la tonalité affective, l'attribution de responsabilité, le registre de vocabulaire, la conception d'un processus ou d'un état, et la référence aux savoirs.
 
