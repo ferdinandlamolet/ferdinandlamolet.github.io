@@ -34,3 +34,6 @@ Le dépôt est versionné pour rendre visible l'évolution de la pensée, pas se
 **Licence** : CC BY-SA 4.0 — réutilisation libre, partage dans les mêmes conditions.
 
 **Contact** : ferdinand.lamolet@etu.univ-amu.fr
+
+---
+*Ferdinand Lamolet (2026)*
