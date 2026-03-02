@@ -1,9 +1,9 @@
-## Le décrochage scolaire en France
+## Le *décrochage scolaire* en France
 **Généalogie d’une catégorie, anatomie d’un obstacle**
 
 ---
 
-Dans un Micro-Lycée, nous avons suivi la rescolarisation d'un jeune de 17 ans. Il avait quitté l'école à 15 ans pour travailler deux ans dans un atelier de mécanique automobile — et y avait appris : la relation client, la comptabilité de base, l'organisation du travail. Si les professionnels reconnaissaient verbalement ses capacités, institutionnellement, rien ne changeait. Son dossier le définissait par des absences, un manque de diplôme, une « sortie sans qualification ».
+Dans un Micro-Lycée, nous avons suivi la rescolarisation d'un jeune de 17 ans. Il avait quitté l'école à 15 ans pour travailler deux ans dans un atelier de mécanique automobile. Il y a appris la relation client, la comptabilité de base, l'organisation du travail. Si les professionnels reconnaissaient verbalement ses capacités, institutionnellement, rien ne changeait. Son dossier le définissait par des absences, un manque de diplôme, une « sortie sans qualification ».
 
 > Ce décalage entre reconnaissance informelle et impossibilité institutionnelle constitue notre question de départ : cette impossibilité de reconnaître les acquis d'un *décrocheur* intervient-elle dans la manière même dont on nomme ces jeunes ?
 
