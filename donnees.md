@@ -1,8 +1,8 @@
-# Corpus & données ouvertes
+## Corpus & données ouvertes
 
 ---
 
-## Le corpus d'analyse
+### Le corpus d'analyse
 
 Le corpus est constitué de 30 documents francophones portant sur le *décrochage scolaire*, publiés entre 2015 et 2025. Il comprend des articles scientifiques (revues de sciences de l'éducation, de sociologie, de psychologie sociale), des rapports institutionnels (DEPP, CNESCO, Observatoire des inégalités), et des textes réglementaires (décrets, circulaires, lois).
 
@@ -12,7 +12,7 @@ La sélection des extraits analysés a été réalisée avec l'outil [AléaScope
 
 ---
 
-## Principes d'anonymisation
+### Principes d'anonymisation
 
 Les données issues du Test d'Associations Verbales (TAV) sont collectées de manière anonyme. Aucune donnée nominative n'est conservée. Les variables de contexte retenues (type d'établissement, niveau d'enseignement, ancienneté) sont suffisamment agrégées pour ne pas permettre l'identification des participants.
 
@@ -20,7 +20,7 @@ Les données de corpus, en revanche, sont référencées de manière complète e
 
 ---
 
-## Structure des données
+### Structure des données
 
 **Données TAV** : exportées en CSV depuis le TAVI, avec les variables suivantes — inducteur, rang d'apparition de chaque association, score de centralité calculé selon la méthode de Vergès (1992), indicateurs de fréquence et d'importance.
 
@@ -28,7 +28,7 @@ Les données de corpus, en revanche, sont référencées de manière complète e
 
 ---
 
-## Accès et réutilisation
+### Accès et réutilisation
 
 Les données seront mises à disposition progressivement, à mesure de leur collecte et de leur traitement, dans le respect des principes FAIR (Findable, Accessible, Interoperable, Reusable).
 
