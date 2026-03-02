@@ -38,5 +38,5 @@ Les données collectées dans le cadre du TAV impliquent la participation d'ense
 
 ---
 
-→ [Instruments & outils](outils.md) — applications accessibles en ligne
-→ [Corpus & données ouvertes](donnees.md) — réutilisation des données de recherche
+→ [Instruments & outils](outils.md) (applications accessibles en ligne)
+→ [Corpus & données ouvertes](donnees.md) (réutilisation des données de recherche)
