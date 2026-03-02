@@ -1,14 +1,12 @@
 ## Journal de recherche
 
-*Espace vivant. Ce qui est consigné ici n'est pas encore un résultat — c'est la trace d'une pensée en train de se construire. Les reformulations, les résistances, les surprises y ont autant de place que les observations stabilisées.*
-
 ---
 
 ### Évolutions théoriques
 
 #### Sur l'objet de recherche
 
-Le déplacement d'objet — de "le décrochage scolaire" vers "la catégorie *décrochage scolaire*" — s'est imposé progressivement, et pas sans résistances. La première formulation de la question de recherche portait encore sur les représentations professionnelles *du décrochage*, comme si le phénomène existait indépendamment du terme qui le désigne. C'est la généalogie sémantique du mot qui a rendu ce premier objet intenable : apprendre que « décrocher » désignait à l'origine une retraite stratégique — un acte voulu et raisonné — et qu'il a été déplacé vers une défaillance imputée au sujet, c'est comprendre que le terme lui-même a fait quelque chose. Il a effacé l'agentivité du sujet au moment même où il prétend le désigner.
+Le déplacement d'objet, de "le décrochage scolaire" vers "la catégorie *décrochage scolaire*" s'est imposé progressivement, et pas sans résistances. La première formulation de la question de recherche portait encore sur les représentations professionnelles *du décrochage*, comme si le phénomène existait indépendamment du terme qui le désigne. C'est la généalogie sémantique du mot qui a rendu ce premier objet intenable : apprendre que « décrocher » désignait à l'origine une retraite stratégique — un acte voulu et raisonné — et qu'il a été déplacé vers une défaillance imputée au sujet, c'est comprendre que le terme lui-même a fait quelque chose. Il a effacé l'agentivité du sujet au moment même où il prétend le désigner.
 
 #### Sur le statut de la catégorie
 
