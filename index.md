@@ -39,3 +39,6 @@ Elle est **ouverte** : les protocoles, les corpus, les données, les évolutions
 - [Journal de recherche](journal.md) — évolutions, surprises, résultats exploratoires
 - [Ressources pour praticiens](ressources.md) — pour enseignants, MLDS, micro-lycées
 - [Licence & réutilisation](open_science.md) — science ouverte, CC BY-SA
+
+---
+*Ferdinand Lamolet (2026)*
