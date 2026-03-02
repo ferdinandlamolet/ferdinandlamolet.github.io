@@ -1,4 +1,4 @@
-# Cadre épistémologique
+## Cadre épistémologique
 
 ---
 
@@ -8,7 +8,7 @@ Quatre auteurs sont mobilisés à deux niveaux d'analyse, articulés par un conc
 
 ---
 
-## Premier niveau : la structure cognitive des catégories
+### Premier niveau : la structure cognitive des catégories
 
 **Gaston Bachelard** (1938) a théorisé les *obstacles épistémologiques* comme des manières de penser spontanées qui freinent la construction du savoir scientifique en s'y substituant. L'obstacle verbal est le plus insidieux : un mot familier impose une représentation mentale qui oriente le raisonnement sans que le locuteur en soit conscient. La connaissance générale constitue un second obstacle : un terme trop large recouvre des réalités hétérogènes et donne l'illusion d'expliquer — nommer suffit à croire qu'on comprend. L'obstacle quantitatif donne l'illusion de la rigueur et stabilise une catégorie qui resterait sans cela contestable.
 
@@ -18,7 +18,7 @@ Quatre auteurs sont mobilisés à deux niveaux d'analyse, articulés par un conc
 
 ---
 
-## Second niveau : la production institutionnelle des catégories
+### Second niveau : la production institutionnelle des catégories
 
 **Michel Foucault** (1969, 1975) apporte un éclairage décisif sur ce que le premier niveau ne suffit pas à expliquer. Selon lui, les catégories ne découvrent pas une réalité préexistante : elles la constituent. Ce qui semble naturel et évident — la scolarité continue, le diplôme comme critère de réussite — est le produit d'un appareil institutionnel qui inclut des décrets, des systèmes de fichage, des objectifs politiques chiffrés et des dispositifs de réinsertion. Ces éléments ne décrivent pas les *décrocheurs*, ils les produisent comme objets de gestion.
 
@@ -26,7 +26,7 @@ Quatre auteurs sont mobilisés à deux niveaux d'analyse, articulés par un conc
 
 ---
 
-## Concept pivot : la représentation sociale
+### Concept pivot : la représentation sociale
 
 Ces deux niveaux d'analyse deviennent empiriquement opérationnels lorsqu'ils structurent le concept de **représentation sociale** (Moscovici, 1961/1976 ; Jodelet, 1989/2003).
 
@@ -42,7 +42,7 @@ Ce concept permet d'articuler l'ensemble du cadre :
 
 ---
 
-## Ce que la catégorie n'est pas
+### Ce que la catégorie n'est pas
 
 Avant de dire ce qu'est le *décrochage scolaire*, il faut comprendre ce qu'il n'est pas.
 
