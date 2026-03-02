@@ -23,9 +23,9 @@ Elle ne porte pas sur le décrochage comme phénomène, ni sur les dispositifs d
 
 Cette recherche est conduite en **sciences de l'éducation et de la formation** à Aix-Marseille Université, dans une perspective épistémologique qui considère que les obstacles les plus sérieux ne résident pas dans les phénomènes que l'on étudie, mais dans les instruments avec lesquels on les regarde (Bachelard, 1938).
 
-Elle est **ouverte** : les protocoles, les corpus, les données, les évolutions théoriques et les résultats sont rendus accessibles à mesure qu'ils se construisent. Pas comme vitrine, mais comme engagement — pour que d'autres puissent s'en emparer, les critiquer, les adapter.
+Elle est **ouverte** : les protocoles, les corpus, les données, les évolutions théoriques et les résultats sont rendus accessibles à mesure qu'ils se construisent. Pas comme vitrine, mais comme engagement, pour que d'autres puissent s'en emparer, les critiquer, les adapter.
 
-**Ferdinand Lamolet** — ferdinand.lamolet@etu.univ-amu.fr
+**Ferdinand Lamolet** - ferdinand.lamolet@etu.univ-amu.fr
 
 ---
 
