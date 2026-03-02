@@ -10,7 +10,7 @@ C'est cette hypothèse qui a orienté la recherche vers un objet inhabituel : no
 
 ---
 
-## Ce que cette recherche examine
+### Ce que cette recherche examine
 
 Cette recherche porte sur la catégorie *décrochage scolaire* — sa généalogie, son statut épistémologique, ses effets cognitifs et institutionnels. Elle s'intéresse à la manière dont un terme structure les représentations professionnelles et invisibilise des trajectoires qui ne correspondent pas à la norme qu'il présuppose.
 
@@ -18,7 +18,7 @@ Elle ne porte pas sur le décrochage comme phénomène, ni sur les dispositifs d
 
 ---
 
-## Posture
+### Posture
 
 Cette recherche est conduite en **sciences de l'éducation et de la formation** à Aix-Marseille Université, dans une perspective épistémologique qui considère que les obstacles les plus sérieux ne résident pas dans les phénomènes que l'on étudie, mais dans les instruments avec lesquels on les regarde (Bachelard, 1938).
 
@@ -28,7 +28,7 @@ Elle est **ouverte** : les protocoles, les corpus, les données, les évolutions
 
 ---
 
-## Explorer
+### Explorer
 
 - [Problématisation](problematique.md) — la situation de départ et la question de recherche
 - [Cadre épistémologique](epistemologie.md) — les outils théoriques mobilisés
