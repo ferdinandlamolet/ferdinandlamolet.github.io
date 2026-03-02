@@ -14,7 +14,7 @@ Le dispositif articule donc deux outils complémentaires. L'un accède à la dim
 
 ### Outil 1 - Analyse de corpus
 
-Un corpus de 30 documents francophones (articles scientifiques, rapports institutionnels, textes réglementaires) sera analysé à l'aide d'une grille de codage structurée autour de six dimensions.
+Un corpus de 45 documents francophones (articles scientifiques, rapports institutionnels, textes réglementaires) sera analysé à l'aide d'une grille de codage structurée autour de six dimensions.
 
 **Réification** : le texte traite-t-il le *décrochage* comme un état individuel ou comme une dynamique relationnelle entre un élève et une institution ? Cette dimension teste la prégnance de l'obstacle verbal.
 
