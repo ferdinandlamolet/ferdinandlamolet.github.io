@@ -1,18 +1,17 @@
-# Penser le décrochage scolaire
-### Atelier public de recherche — Ferdinand Lamolet
+## Ferdinand Lamolet
 *Sciences de l'Éducation et de la Formation, Aix-Marseille Université*
 
 ---
 
-Dans un Micro-Lycée, un jeune de 17 ans. Deux ans passés hors de l'école, dans un atelier de mécanique automobile. Des compétences réelles, reconnues verbalement par les professionnels. Institutionnellement : « sortie sans qualification ». Son dossier le définit par une absence.
+Dans un Micro-Lycée, un jeune de 17 ans. Deux ans passés hors de l'école, dans un atelier de mécanique automobile. Des compétences réelles, reconnues verbalement par les professionnels. Institutionnellement, il est « sorti sans qualification ». Son dossier le définit par une absence.
 
-Ce décalage a orienté une recherche vers un objet inhabituel : non pas le *décrochage scolaire* comme phénomène, mais la **catégorie elle-même** — ce que le terme fait, ce qu'il rend visible, et ce qu'il empêche de voir.
+Ce décalage a orienté une recherche vers un objet inhabituel, non pas du *décrochage scolaire* comme phénomène statistique, mais la **catégorie elle-même** - ce que le terme fait, ce qu'il rend visible, et ce qu'il empêche de voir.
 
 ---
 
-## Ce que ce dépôt contient
+### Ce que ce dépôt contient
 
-Le site public de l'atelier : **[perilordinaire.github.io](https://perilordinaire.github.io)**
+Le site public de l'atelier : **[ferdinandlamolet.github.io](https://ferdinandlamolet.github.io)**
 
 Les fichiers sources des pages, organisées dans l'ordre de la recherche :
 
@@ -30,7 +29,7 @@ Les fichiers sources des pages, organisées dans l'ordre de la recherche :
 
 ---
 
-## Posture
+### Posture
 
 Recherche en épistémologie des catégories éducatives. L'hypothèse centrale : la catégorie *décrochage scolaire* constitue une représentation sociale dont le noyau central structure les discours scientifiques et les représentations professionnelles au point de faire obstacle à la reconnaissance des trajectoires qui s'en écartent.
 
