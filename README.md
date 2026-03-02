@@ -16,7 +16,7 @@ Nos recherches portent sur l'épistémologie des catégories et les représentat
 
 Transposition informatique du protocole d'un Test d'Associations Verbales (Abric, 2003 ; Vergès, 1992), pour explorer les représentations sociales spontanées des professionnels du secondaire. Export Script Sheets.
 
-📋 [Protocole TAVI](https://ferdinandlamolet.github.io/tav-protocole)
+📋 [Protocole TAVI](https://ferdinandlamolet.github.io/tav-protocole.html)
 
 🏫 [TAVI - Raccrochage Scolaire](https://ferdinandlamolet.github.io/tav-raccrochage.html)
 
