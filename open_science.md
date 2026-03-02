@@ -30,7 +30,7 @@ Cela signifie que vous pouvez :
 
 Pour citer un élément de cet atelier :
 
-> Lamolet, F. (*en cours*). *Penser le décrochage scolaire — Atelier public de recherche*. Aix-Marseille Université. https://perilordinaire.github.io
+> Lamolet, F. (2026). *Penser le décrochage scolaire*. Aix-Marseille Université. https://ferdinandlamolet.github.io
 
 Pour citer une page spécifique, ajoutez le titre de la page et l'URL directe.
 
