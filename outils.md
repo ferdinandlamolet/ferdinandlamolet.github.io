@@ -43,3 +43,6 @@ AléaScope répond à un problème pratique de constitution du corpus : comment 
 Ces trois outils sont développés dans une logique de science ouverte. Ils peuvent être adaptés à d'autres terrains, d'autres inducteurs, d'autres grilles de codage. Les protocoles sont documentés de manière à permettre une reproduction indépendante.
 
 → [Licence & réutilisation](open_science.md)
+
+---
+*Ferdinand Lamolet (2026)*
