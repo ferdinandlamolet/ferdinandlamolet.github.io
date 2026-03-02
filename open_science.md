@@ -1,8 +1,8 @@
-# Licence & réutilisation
+## Licence & réutilisation
 
 ---
 
-## Principe
+### Principe
 
 Cette recherche est conduite dans une logique de **science ouverte**. Cela signifie que les protocoles, les corpus, les données, les outils et les résultats sont rendus accessibles à mesure qu'ils se construisent — pas comme vitrine, mais comme engagement.
 
@@ -10,7 +10,7 @@ L'idée est simple : si les instruments cognitifs que nous utilisons pour penser
 
 ---
 
-## Licence
+### Licence
 
 Tous les contenus de cet atelier public de recherche — textes, protocoles, données, outils — sont publiés sous licence **Creative Commons Attribution — Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0)**.
 
@@ -26,7 +26,7 @@ Cela signifie que vous pouvez :
 
 ---
 
-## Comment citer
+### Comment citer
 
 Pour citer un élément de cet atelier :
 
@@ -36,12 +36,8 @@ Pour citer une page spécifique, ajoutez le titre de la page et l'URL directe.
 
 ---
 
-## Versionnement
+### Versionnement
 
 Les évolutions des textes, des protocoles et des données sont tracées via l'historique Git du dépôt. Ce versionnement est une forme de transparence scientifique : il permet de voir comment la pensée s'est construite, quelles reformulations ont eu lieu et pourquoi.
 
-→ [Dépôt GitHub](https://github.com/perilordinaire) — historique complet
-
----
-
-*"péril ordinaire" fait référence au classement national des immeubles en "péril non immédiat" — triste figure chargée de style, oxymore en soi et métaphore multiple. L'effondrement peut attendre, les moulins tournent toujours. (2026)*
+→ [Dépôt GitHub](https://github.com/ferdinandlamolet) — historique complet
