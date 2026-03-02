@@ -9,8 +9,6 @@ Ce décalage a orienté une recherche vers un objet inhabituel, non pas du *déc
 
 ---
 
-Les fichiers sources des pages, organisées dans l'ordre de la recherche :
-
 | Fichier | Contenu |
 |---|---|
 | `index.md` | Page d'accueil du site |
