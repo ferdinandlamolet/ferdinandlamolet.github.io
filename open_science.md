@@ -41,3 +41,6 @@ Pour citer une page spécifique, ajoutez le titre de la page et l'URL directe.
 Les évolutions des textes, des protocoles et des données sont tracées via l'historique Git du dépôt. Ce versionnement est une forme de transparence scientifique : il permet de voir comment la pensée s'est construite, quelles reformulations ont eu lieu et pourquoi.
 
 → [Dépôt GitHub](https://github.com/ferdinandlamolet) — historique complet
+
+---
+*Ferdinand Lamolet (2026)*
