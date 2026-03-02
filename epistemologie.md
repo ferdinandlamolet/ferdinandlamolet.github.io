@@ -14,7 +14,7 @@ Les auteurs sont mobilisés à deux niveaux d'analyse, articulés par un concept
 
 **Israel Scheffler** (1961) précise la dimension normative de ces obstacles. Les termes éducatifs prescrivent des valeurs tout en semblant décrire objectivement. Scheffler les appelle des *termes programmatiques*, ils prétendent décrire objectivement tout en naturalisant des normes sociales historiquement situées. Le sujet grammatical de l'action, les présupposés sur ce qui compte comme savoir légitime, la naturalisation de normes récentes comme la scolarité continue jusqu'au diplôme. Tout cela est inscrit dans la catégorie avant même qu'on ne l'utilise.
 
-**Walter Gallie** (1956) nuance ce tableau en montrant que l'instabilité de certains termes n'est pas toujours un défaut rectifiable, elle peut en être une propriété constitutive. Ces *concepts essentiellement contestés* véhiculent des désaccords normatifs fondamentaux qui rendent toute définition stable impossible tant que ces désaccords ne sont pas rendus explicites. La polysémie du *décrochage scolaire* n'est pas un manque de rigueur : c'est une propriété constitutive du terme.
+**Walter Gallie** (1956) nuance ce tableau en montrant que l'instabilité de certains termes n'est pas toujours un défaut rectifiable, elle peut en être une propriété constitutive. Ces *concepts essentiellement contestés* véhiculent des désaccords normatifs fondamentaux qui rendent toute définition stable impossible tant que ces désaccords ne sont pas rendus explicites. La polysémie du *décrochage scolaire* n'est pas un manque de rigueur, c'est une propriété constitutive du terme.
 
 ---
 
@@ -22,7 +22,7 @@ Les auteurs sont mobilisés à deux niveaux d'analyse, articulés par un concept
 
 **Michel Foucault** (1969, 1975) apporte un éclairage décisif sur ce que le premier niveau ne suffit pas à expliquer. Selon lui, les catégories ne découvrent pas une réalité préexistante, elles la constituent. Ce qui semble naturel et évident - la scolarité continue, le diplôme comme critère de réussite - est le produit d'un appareil institutionnel qui inclut des décrets, des systèmes de fichage, des objectifs politiques chiffrés et des dispositifs de réinsertion. Ces éléments ne décrivent pas les *décrocheurs*, ils les produisent comme objets de gestion.
 
-**Ian Hacking** (1999, 2004) prolonge cette analyse en théorisant les effets de la classification sur les individus. Contrairement aux objets naturels, les êtres humains ne sont pas indifférents aux catégories qui les désignent. L'*effet de boucle* (*looping effect*) désigne ce processus par lequel la catégorie modifie les comportements de ceux qui l'utilisent, et de ceux qui en font l'objet. Ces transformations alimentent à leur tour la catégorie, qui se renforce d'elle-même. Un enseignant ayant intériorisé la catégorie *décrocheur* voit le jeune à travers cette absence avant d'exercer un jugement délibéré.
+**Ian Hacking** (1999, 2004) prolonge cette analyse en théorisant les effets de la classification sur les individus. Contrairement aux objets naturels, les êtres humains ne sont pas indifférents aux catégories qui les désignent. L'effet de boucle (*looping effect*) désigne ce processus par lequel la catégorie modifie les comportements de ceux qui l'utilisent, et de ceux qui en font l'objet. Ces transformations alimentent à leur tour la catégorie, qui se renforce d'elle-même. Un enseignant ayant intériorisé la catégorie *décrocheur* voit le jeune à travers cette absence avant d'exercer un jugement délibéré.
 
 ---
 
