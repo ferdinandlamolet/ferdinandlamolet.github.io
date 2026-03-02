@@ -1,4 +1,4 @@
-## Ressources pour praticiens
+## Ressources destinées aux professionnels
 
 *Cette page propose une traduction des enjeux de la recherche pour ceux qui travaillent quotidiennement avec des jeunes désignés comme décrocheurs : enseignants, équipes de Micro-Lycées, professionnels de la MLDS, conseillers d'orientation.*
 
