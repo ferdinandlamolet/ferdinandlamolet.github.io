@@ -14,7 +14,7 @@
 
 Trois outils développés pour l'enquête, librement réutilisables.
 
-| Outil | Description | Accès | Protocole |
+| | Description | Accès | Protocole |
 |-------|-------------|-------|-----------|
 | **TAVI** | Test d'Associations Verbales Informatisé | [Ouvrir](https://ferdinandlamolet.github.io/tavi/) | [Protocole](https://ferdinandlamolet.github.io/tav-protocole.html) |
 | **PAC** | Plateforme d'Analyse de Corpus | [Ouvrir](https://ferdinandlamolet.github.io/pac/) | [Protocole](https://ferdinandlamolet.github.io/pac-protocole.html) |
