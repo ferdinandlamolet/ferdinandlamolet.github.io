@@ -3,12 +3,10 @@
  
 ---
 
-### Décrochage scolaire
+### Le *décrochage scolaire* en France
 **Généalogie d'une catégorie, anatomie d'un obstacle**
 
-Dépôt de recherche (2026).
-
-→ **[Présentation complète](https://ferdinandlamolet.github.io)**
+→ [Dépôt de recherche](https://ferdinandlamolet.github.io) (2026).
 
 ---
 
@@ -20,7 +18,7 @@ Trois outils développés pour l'enquête, librement réutilisables.
 |-------|-------------|-------|-----------|
 | **TAVI** | Test d'Associations Verbales Informatisé | [Ouvrir](https://ferdinandlamolet.github.io/tavi/) | [Protocole](https://ferdinandlamolet.github.io/tav-protocole.html) |
 | **PAC** | Plateforme d'Analyse de Corpus | [Ouvrir](https://ferdinandlamolet.github.io/pac/) | [Protocole](https://ferdinandlamolet.github.io/pac-protocole.html) |
-| **AléaScope** | Stratification d'échantillon | [Ouvrir](https://ferdinandlamolet.github.io/aleascope/) | — |
+| **AléaScope** | Stratification d'échantillon | [Ouvrir](https://ferdinandlamolet.github.io/aleascope/) | x |
 
 ---
 
@@ -42,7 +40,7 @@ Trois outils développés pour l'enquête, librement réutilisables.
 
 ### Réutilisation
 
-Licence MIT - les outils peuvent être librement utilisés, modifiés, ou demandés à être modifiés à cette adresse ferdinand.lamolet@etu.univ-amu.fr, et redistribués avec conservation de la mention d'auteur.
+Licence MIT - les outils peuvent être librement utilisés, modifiés et redistribués avec conservation de la mention d'auteur.
 
 ---
 **Ferdinand Lamolet** (2026)
