@@ -79,5 +79,5 @@ Cette recherche est conduite en **sciences de l'éducation et de la formation** 
 
 Les outils sont publiés sous **licence MIT** - libres d'utilisation, de modification et de redistribution, avec conservation de la mention d'auteur.
 
-
+--- 
 **Ferdinand Lamolet** · ferdinand.lamolet@etu.univ-amu.fr
