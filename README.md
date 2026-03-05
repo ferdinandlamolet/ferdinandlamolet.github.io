@@ -26,12 +26,12 @@ Trois outils développés pour l'enquête, librement réutilisables.
 
 ```
 /
-├── index.md              # Page d'accueil
-├── outils/
-│   ├── tavi/             # Source TAVI
-│   ├── pac/              # Source PAC
-│   └── aleascope/        # Source AléaScope
-└── protocoles/
+├── index                             # Page d'accueil
+├── outils
+│   ├── tav-raccrochage.html          # Source TAVI
+│   ├── pac-obstacles.html            # Source PAC
+│   └── aleascope.html                # Source AléaScope
+└── protocoles
     ├── tav-protocole.html
     └── pac-protocole.html
 ```
