@@ -71,7 +71,7 @@ Trois outils ont été développés pour conduire cette enquête et sont mis à 
 
 - [**AléaScope**](https://ferdinandlamolet.github.io/aleascope.html) - Outil de stratification d'échantillons
 
-Les protocoles d'utilisation et de réutilisation sont accessibles [ici](https://ferdinandlamolet.github.io/outils).
+Les protocoles d'utilisation et de réutilisation des outils sont accessibles sur cette [page](https://ferdinandlamolet.github.io/outils).
 
 ---
 
