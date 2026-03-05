@@ -1,8 +1,6 @@
 ## Le *décrochage scolaire* en France
 **Généalogie d'une catégorie, anatomie d'un obstacle**
 
-Ferdinand Lamolet (ferdinand.lamolet@etu.univ-amu.fr)
-
 ---
 
 Dans un Micro-Lycée, nous avons suivi la rescolarisation d'un jeune de 17 ans qui avait quitté l'école deux ans auparavant pour travailler dans un atelier de mécanique automobile. Il y a appris la relation client, la comptabilité de base, l'organisation du travail. Si les professionnels reconnaissaient verbalement ses capacités, institutionnellement, rien ne changeait. Son dossier le définissait par des absences, un manque de diplôme, une « sortie sans qualification ».
@@ -80,7 +78,7 @@ Les protocoles d'utilisation et de réutilisation des outils sont accessibles su
 
 Cette recherche est conduite en **sciences de l'éducation et de la formation** à Aix-Marseille Université, dans une perspective épistémologique qui considère que les obstacles les plus sérieux ne résident pas dans les phénomènes que l'on étudie, mais dans les instruments avec lesquels on les regarde (Bachelard, 1938).
 
-Les outils sont publiés sous **licence MIT** - libres d'utilisation, de modification et de redistribution, avec conservation de la mention d'auteur.
+Les outils sont publiés sous **licence MIT** - libres d'utilisation, de modification et de redistribution, avec conservation de la mention d'auteur. Vous pouvez adresser vos propositions d'amélioriation à cette adresse : ferdinand.lamolet@etu.univ-amu.fr
 
 --- 
 **Ferdinand Lamolet** (2026)
