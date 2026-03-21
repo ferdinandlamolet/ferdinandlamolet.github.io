@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ferdinand Lamolet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Literata:ital,wght@0,300;0,400;1,300&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:      #1a1714;
+      --ink-soft: #5a524a;
+      --paper:    #f5f2ec;
+      --rule:     #d4cec4;
+      --r-accent: #2a3d52;   /* recherche — bleu nuit */
+      --t-accent: #3d4f2a;   /* tentative — vert forêt */
+      --a-accent: #6b3320;   /* atelier — brun brûlé */
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'Literata', Georgia, serif;
+      font-weight: 300;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── grain overlay ── */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 100;
+      opacity: .5;
+    }
+
+    /* ── header ── */
+    header {
+      padding: 5rem 4rem 3rem;
+      max-width: 860px;
+      margin: 0 auto;
+      border-bottom: 1px solid var(--rule);
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: end;
+      gap: 2rem;
+      opacity: 0;
+      animation: fadeUp .8s ease forwards .1s;
+    }
+
+    .name {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(2.4rem, 5vw, 3.6rem);
+      font-weight: 300;
+      letter-spacing: -.02em;
+      line-height: 1.05;
+    }
+    .name em {
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    .meta {
+      font-family: 'DM Mono', monospace;
+      font-size: .68rem;
+      font-weight: 300;
+      color: var(--ink-soft);
+      text-align: right;
+      line-height: 1.8;
+      letter-spacing: .04em;
+    }
+
+    /* ── nav ── */
+    nav {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 1.6rem 4rem;
+      display: flex;
+      gap: 2.4rem;
+      border-bottom: 1px solid var(--rule);
+      opacity: 0;
+      animation: fadeUp .8s ease forwards .25s;
+    }
+
+    nav a {
+      font-family: 'DM Mono', monospace;
+      font-size: .7rem;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      text-decoration: none;
+      transition: color .2s;
+    }
+    nav a:hover { color: var(--ink); }
+
+    /* ── main grid ── */
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 4rem 4rem 6rem;
+      display: grid;
+      gap: 2px;
+    }
+
+    /* ── card ── */
+    .card {
+      border: 1px solid var(--rule);
+      padding: 2.8rem 3rem;
+      text-decoration: none;
+      color: inherit;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 1.6rem;
+      align-items: start;
+      position: relative;
+      overflow: hidden;
+      transition: border-color .3s, background .3s;
+      opacity: 0;
+    }
+
+    .card:nth-child(1) { animation: fadeUp .8s ease forwards .35s; }
+    .card:nth-child(2) { animation: fadeUp .8s ease forwards .5s; }
+    .card:nth-child(3) { animation: fadeUp .8s ease forwards .65s; }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      transform: scaleY(0);
+      transform-origin: bottom;
+      transition: transform .4s ease;
+    }
+
+    .card-r::before { background: var(--r-accent); }
+    .card-t::before { background: var(--t-accent); }
+    .card-a::before { background: var(--a-accent); }
+
+    .card:hover { background: rgba(26,23,20,.025); }
+    .card:hover::before { transform: scaleY(1); }
+    .card-r:hover { border-color: var(--r-accent); }
+    .card-t:hover { border-color: var(--t-accent); }
+    .card-a:hover { border-color: var(--a-accent); }
+
+    .card-body { min-width: 0; }
+
+    .card-tag {
+      font-family: 'DM Mono', monospace;
+      font-size: .63rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      margin-bottom: .7rem;
+      display: block;
+    }
+    .card-r .card-tag { color: var(--r-accent); }
+    .card-t .card-tag { color: var(--t-accent); }
+    .card-a .card-tag { color: var(--a-accent); }
+
+    .card-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+      font-weight: 400;
+      line-height: 1.15;
+      margin-bottom: .9rem;
+      letter-spacing: -.01em;
+    }
+
+    .card-title em {
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    .card-desc {
+      font-size: .88rem;
+      line-height: 1.75;
+      color: var(--ink-soft);
+      max-width: 52ch;
+    }
+
+    .card-tools {
+      margin-top: 1.2rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+    }
+
+    .tool-tag {
+      font-family: 'DM Mono', monospace;
+      font-size: .6rem;
+      letter-spacing: .06em;
+      padding: .25rem .6rem;
+      border: 1px solid var(--rule);
+      color: var(--ink-soft);
+      white-space: nowrap;
+    }
+
+    .card-arrow {
+      font-size: 1.3rem;
+      color: var(--rule);
+      align-self: center;
+      transition: transform .3s, color .3s;
+      flex-shrink: 0;
+    }
+    .card:hover .card-arrow { transform: translateX(4px); }
+    .card-r:hover .card-arrow { color: var(--r-accent); }
+    .card-t:hover .card-arrow { color: var(--t-accent); }
+    .card-a:hover .card-arrow { color: var(--a-accent); }
+
+    /* ── footer ── */
+    footer {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 4rem 4rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid var(--rule);
+      opacity: 0;
+      animation: fadeUp .8s ease forwards .8s;
+    }
+
+    footer p {
+      font-family: 'DM Mono', monospace;
+      font-size: .65rem;
+      color: var(--ink-soft);
+      letter-spacing: .04em;
+    }
+
+    footer a {
+      color: var(--ink-soft);
+      text-decoration: none;
+      transition: color .2s;
+    }
+    footer a:hover { color: var(--ink); }
+
+    /* ── animation ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ── responsive ── */
+    @media (max-width: 640px) {
+      header, nav, main, footer { padding-left: 1.6rem; padding-right: 1.6rem; }
+      header { grid-template-columns: 1fr; gap: 1rem; }
+      .meta { text-align: left; }
+      .card { grid-template-columns: 1fr; padding: 2rem 1.6rem; }
+      .card-arrow { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div>
+      <p class="name">Ferdinand<br><em>Lamolet</em></p>
+    </div>
+    <div class="meta">
+      Sciences de l'Éducation et de la Formation<br>
+      Aix-Marseille Université<br>
+      2026
+    </div>
+  </header>
+
+  <nav>
+    <a href="#recherche">Recherche</a>
+    <a href="#tentative">Tentative scolaire</a>
+    <a href="#atelier">Atelier</a>
+    <a href="mailto:ferdinand.lamolet@etu.univ-amu.fr">Contact</a>
+  </nav>
+
+  <main>
+
+    <a class="card card-r" id="recherche" href="https://ferdinandlamolet.github.io/recherche">
+      <div class="card-body">
+        <span class="card-tag">Recherche · SHS</span>
+        <h2 class="card-title">Le <em>décrochage scolaire</em> en France<br>Généalogie d'une catégorie, anatomie d'un obstacle</h2>
+        <p class="card-desc">
+          Une recherche en sciences de l'éducation sur la catégorie même du décrochage scolaire — sa généalogie, ses effets cognitifs et institutionnels, et ce qu'elle rend structurellement invisible. Dispositif bimodal : analyse de corpus et test d'associations verbales.
+        </p>
+        <div class="card-tools">
+          <span class="tool-tag">TAVI</span>
+          <span class="tool-tag">αK.27</span>
+          <span class="tool-tag">PAC</span>
+          <span class="tool-tag">AléaScope</span>
+          <span class="tool-tag">MBC</span>
+        </div>
+      </div>
+      <span class="card-arrow">→</span>
+    </a>
+
+    <a class="card card-t" id="tentative" href="https://ferdinandlamolet.github.io/tentative-scolaire">
+      <div class="card-body">
+        <span class="card-tag">Pédagogie · Projet</span>
+        <h2 class="card-title">Une <em>tentative scolaire</em></h2>
+        <p class="card-desc">
+          Un chantier pédagogique en construction : une posture, un curriculum, des supports. Partir de ce que les élèves savent déjà — compétences visibles et cachées, scolaires et extrascolaires — comme point de départ réel. Freire, Dewey, et l'expérience de terrain.
+        </p>
+        <div class="card-tools">
+          <span class="tool-tag">La Posture et les Gestes</span>
+          <span class="tool-tag">Le Curriculum</span>
+          <span class="tool-tag">Supports</span>
+        </div>
+      </div>
+      <span class="card-arrow">→</span>
+    </a>
+
+    <a class="card card-a" id="atelier" href="https://ferdinandlamolet.github.io/atelier">
+      <div class="card-body">
+        <span class="card-tag">Bricolage · Expérimentation</span>
+        <h2 class="card-title">L'<em>atelier</em></h2>
+        <p class="card-desc">
+          Un espace sans obligation de cohérence. Des petits outils, des expérimentations, des choses faites pour le plaisir de les faire. La seule règle : le droit de ne pas finir.
+        </p>
+      </div>
+      <span class="card-arrow">→</span>
+    </a>
+
+  </main>
+
+  <footer>
+    <p>Licence MIT — librement réutilisable avec mention d'auteur</p>
+    <p><a href="mailto:ferdinand.lamolet@etu.univ-amu.fr">ferdinand.lamolet@etu.univ-amu.fr</a></p>
+  </footer>
+
+</body>
+</html>
